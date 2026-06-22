@@ -3,8 +3,6 @@
 
 An interactive Excel sales dashboard built on ~9,650 transaction records from Adidas's US retail operations across 2020 and 2021.
 
-> 📂 [Download the Excel file](https://github.com/ShikohWaweru/Excel-Projects/blob/main/Adidas-Sales%20Dashboard.xlsx)
-
 ---
 
 ### Dashboard preview
